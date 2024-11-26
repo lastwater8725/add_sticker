@@ -1,4 +1,6 @@
 # 파노라마 영상 제작 및 스터커 추가 프로그램
+- exe파일이 존재하는 구글 드라이브 링크입니다.
+- https://drive.google.com/drive/folders/1nVYU-KJEgprNjAXGJNmNH0UO0ZdFQOgF?usp=drive_link
 
 ## Project 설명
 - 파노라마 영상을 제작하거나, 제작한 이미지 혹은, 자신이 갖고 있는 이미지에 스티커 사진을 추가할 수 있는 프로그램
